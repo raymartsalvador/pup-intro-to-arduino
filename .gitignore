@@ -1,0 +1,19 @@
+# --- Claude Code / local tooling (not part of the workshop) ---
+.claude/
+.mcp.json
+CLAUDE.md
+*.log
+mcp_audit.log
+mcp_docker.log
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# --- Arduino build artifacts ---
+build/
+*.hex
+*.elf
+*.bin
